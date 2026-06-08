@@ -1,0 +1,6 @@
+{
+  "name": "Android Developer Portfolio",
+  "description": "A premium, responsive portfolio website for an Android developer, featuring a modern dark theme with glassmorphism, smooth scrolling animations, and detailed developer sections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
